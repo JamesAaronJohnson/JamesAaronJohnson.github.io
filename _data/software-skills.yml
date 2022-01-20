@@ -1,0 +1,43 @@
+- name: UE4
+  percentage:
+  color: danger
+
+- name: Unity
+  percentage:
+  color: danger
+
+- name: Photoshop
+  percentage:
+  color: danger
+
+- name: 3DS Max
+  percentage:
+  color: danger
+
+- name: Maya
+  percentage:
+  color: danger
+
+- name: Blender
+  percentage:
+  color: danger
+
+- name: Ableton Live
+  percentage:
+  color: danger
+
+- name: Cubase
+  percentage:
+  color: danger
+
+- name: Substance Painter
+  percentage:
+  color: danger
+
+- name: Word
+  percentage:
+  color: danger
+
+- name: Excel
+  percentage:
+  color: danger

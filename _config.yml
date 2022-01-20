@@ -1,0 +1,52 @@
+# Site settings
+title: James Johnson
+description:  # this means to ignore newlines until "baseurl:"
+  Games Designer and Programmer. Hobbyist artist and musician. 
+  Lover of all things interactive.
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+repository: James-Aaron-Johnson/James-Aaron-Johnson.github.io
+
+# Build settings
+markdown: kramdown
+# plugins:
+# - jekyll-feed
+
+
+# Author Info
+author:
+  name     : James Johnson
+  image    : /assets/images/avatar.png
+  email    : james_aaron_johnson@outlook.com
+  github   : Chi-Time
+  twitter  : James_A_Johnson
+  linkedin : james-aaron-johnson
+
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+# Default values for collections
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+
+# Posts default Permalink
+permalink: blogs/:title
+
+
+# Exclude from processing.
+exclude:
+- README.md
+- CONTRIBUTING.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
