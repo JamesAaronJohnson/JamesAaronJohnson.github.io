@@ -18,7 +18,7 @@ Games design and Games Programming are areas that have always interested me and 
 Other than that? I spend my free time playing games and helping others online.
 
 <div class="text-center">
-    <a href="https://james-aaron-johnson.github.io/assets/files/james-johnson-cv.pdf" class="button" target="_blank">Download CV PDF</a>
+    <a href="https://jamesaaronjohnson.github.io/assets/files/james-johnson-cv.pdf" class="button" target="_blank">Download CV PDF</a>
 </div>
 
 ### Contact Me

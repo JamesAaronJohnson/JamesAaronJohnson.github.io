@@ -1,7 +1,7 @@
 ---
 name: Mickey Machine Gun - Design Documentation
 tools: [Game Design, Documentation, Briefing]
-image: https://james-aaron-johnson.github.io/assets/images/mickey-machine-gun/project-cover.jpg
+image: https://jamesaaronjohnson.github.io/assets/images/mickey-machine-gun/project-cover.jpg
 description: A Game Concept and Design Document for a small arena shooter/puzzler.
 ---
 
@@ -32,7 +32,7 @@ The following embed is the Concept Design Document I made for the proposed proje
 </div>
 
 <div class="text-center">
-<a href="https://james-aaron-johnson.github.io/assets/files/mickey-machine-gun/Concept Document.pdf" class="button" target="_blank">Concept Document PDF</a>
+<a href="https://jamesaaronjohnson.github.io/assets/files/mickey-machine-gun/Concept Document.pdf" class="button" target="_blank">Concept Document PDF</a>
 </div>
 
 ## Micro Design Document
@@ -51,5 +51,5 @@ The following embed is the Micro Game Design Document I made for the proposed pr
 </div>
 
 <div class="text-center">
-<a href="https://james-aaron-johnson.github.io/assets/files/mickey-machine-gun/Micro Design Document.pdf" class="button" target="_blank">Micro Design Document PDF</a>
+<a href="https://jamesaaronjohnson.github.io/assets/files/mickey-machine-gun/Micro Design Document.pdf" class="button" target="_blank">Micro Design Document PDF</a>
 </div>

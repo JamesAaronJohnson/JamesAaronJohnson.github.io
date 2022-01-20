@@ -1,7 +1,7 @@
 ---
 name: Substance Map Combiner - Workflow Tooling
 tools: [C#, Winforms]
-image: https://james-aaron-johnson.github.io/assets/images/Substance-Map-Combiner-Project.jpg
+image: https://jamesaaronjohnson.github.io/assets/images/Substance-Map-Combiner-Project.jpg
 description: A small application made to combine multiple substance exports into a single texture map.
 ---
 
@@ -10,7 +10,7 @@ description: A small application made to combine multiple substance exports into
 
 <br>
 
-![](https://james-aaron-johnson.github.io/assets/images/Substance-Map-Combiner-Overview.gif)
+![](https://jamesaaronjohnson.github.io/assets/images/Substance-Map-Combiner-Overview.gif)
 <div class="footnote">
 <small>Aplication Usage Showcase.</small>
 </div> <br>

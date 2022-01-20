@@ -1,7 +1,7 @@
 ---
 name: The Curious Case of the Cabbage - Oblivion Mod
 tools: [Modding, Level Design, Dialogue Design, Quest Design]
-image: https://james-aaron-johnson.github.io/assets/images/oblivion-mod-project.jpg 
+image: https://jamesaaronjohnson.github.io/assets/images/oblivion-mod-project.jpg 
 description: A multiple ending quest mod for Elder Scrolls IV Oblivion with custom characters and voice acting.
 ---
 
